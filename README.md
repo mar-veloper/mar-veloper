@@ -12,7 +12,7 @@
 ### Tech Stack
 
 Frontend | Backend | Database | Others
------------- | ------------- | -------------
+------------ | ------------- | ------------- | -------------
 React | Node | MongoDB | Git
 Redux | Express | PostgresQL | Docker
 TypeScript | Netlify Function | FaunaDB | GraphQL

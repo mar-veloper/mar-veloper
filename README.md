@@ -8,6 +8,16 @@
   • **Serverless** with _Netlify Function_ <br/>
   • **Gatsby** for my upcoming _Portfolio_ <br/>
   • **D3 JS** and **Next JS** for our upcoming 2 weeks project <br/>
+  
+### Tech Stack
+
+Frontend | Backend | Database | Others
+------------ | ------------- | -------------
+React | Node | MongoDB | Git
+Redux | Express | PostgresQL | Docker
+TypeScript | Netlify Function | FaunaDB | GraphQL
+Gatsby | | | 
+
 
 ### 📫 How to reach me: 
    • **LinkedIn**: [Click here](https://www.linkedin.com/in/jrmt/) <br/>

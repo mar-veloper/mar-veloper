@@ -9,7 +9,7 @@
   • **Gatsby** for my upcoming _Portfolio_ <br/>
   • **D3 JS** and **Next JS** for our upcoming 2 weeks project <br/>
   
-### Tech Stack
+### 💻 Some of my Tech Stack
 
 Frontend | Backend | Database | Others
 ------------ | ------------- | ------------- | -------------

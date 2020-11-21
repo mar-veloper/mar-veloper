@@ -16,7 +16,8 @@ Frontend | Backend | Database | Others
 React | Node | MongoDB | Git
 Redux | Express | PostgresQL | Docker
 TypeScript | Netlify Function | FaunaDB | GraphQL
-Gatsby | | | 
+Gatsby | | |
+Next | | |
 
 
 ### 📫 How to reach me: 

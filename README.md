@@ -4,7 +4,7 @@
 ### 🔭 I’m currently working on:
 
   • Personal project: **[Scoreboard](https://github.com/mar-veloper/scoreboard)**<br/>
-  • Team project: **[Should-i-go](https://github.com/mar-veloper/should-i-go)**<br/>
+  • Personal project: **My portfolio**<br/>
 
 ### 🌱 I’m enhancing my skills on:
   • **Serverless** with _Netlify Function_ <br/>

@@ -1,15 +1,4 @@
 ## Hi there, I'm Jonmar 👋
-
-
-### 🔭 I’m currently working on:
-
-  • Personal project: **[Scoreboard](https://github.com/mar-veloper/scoreboard)**<br/>
-  • Personal project: **My portfolio**<br/>
-
-### 🌱 I’m enhancing my skills on:
-  • **Serverless** with _Netlify Function_ <br/>
-  • **Gatsby** for my upcoming _Portfolio_ <br/>
-  • **Chart.js** and **Next JS** for our [Should-i-go](https://github.com/mar-veloper/should-i-go) application<br/>
   
 ### 💻 Some of my Tech Stack
 

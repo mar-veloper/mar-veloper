@@ -13,5 +13,5 @@ Next | | |
 
 ### 📫 How to reach me: 
    • **LinkedIn**: [Click here](https://www.linkedin.com/in/jrmt/) <br/>
-   • **Gmail**: contact@jonmartamon.com <br/>
+   • **Gmail**: jonmarmontaniel@gmail.com <br/>
    
